@@ -46,3 +46,5 @@ In order to enable it:
 5. Enjoy automatic browsing experience!! You have to instruct model to use browser tool and guide it through  webpage, otherwise it won`t quite understand it. 
 
 OpenClaw installation is very easy through Ollama.
+
+![image](https://github.com/Noah-H309/Enable-Openclaw-browser-tool/blob/main/url.png)
